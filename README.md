@@ -23,5 +23,3 @@ Console: [https://www.pythonanywhere.com/consoles](https://www.pythonanywhere.co
   <img width="500" height="976" alt="image" src="https://github.com/user-attachments/assets/bbed3c82-8a6c-4849-b7c6-da70c4d1a17a" />
 
 </div>
-
----
